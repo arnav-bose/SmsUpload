@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMSUpload</string>
+    <string name="upload_all_sms">Upload All Sms</string>
+</resources>
