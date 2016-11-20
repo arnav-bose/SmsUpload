@@ -27,4 +27,5 @@ dependencies {
     compile 'com.sromku:simple-storage:1.2.0'
     compile 'org.apache.httpcomponents:httpcore:4.4.1'
     compile 'org.apache.httpcomponents:httpclient:4.5'
+    compile 'net.gotev:uploadservice:3.0.3'
 }
